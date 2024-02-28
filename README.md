@@ -4,7 +4,8 @@
 帮朋友写的  
 有点懒得删vs的文件  
 要编译将就着编吧  
-感谢https://github.com/shauleiz/vJoy提供的SDK和驱动  
+感谢https://github.com/shauleiz/vJoy  
+提供的SDK和驱动  
 原则上MIT协议  
 懒得找协议文件了  
 睡觉去了
