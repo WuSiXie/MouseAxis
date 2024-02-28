@@ -15,3 +15,4 @@
 小键盘+-号有(DE)BUFF  
 INS能寸止  
 右ctrl+右shift+delete能睡着  
+当然快捷键可以自己编译的时候改
